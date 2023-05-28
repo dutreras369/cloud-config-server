@@ -8,7 +8,7 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>cl.paseodelasdelicias</groupId>
+	<groupId>cl.cloud.app</groupId>
 	<artifactId>cloud-config-server</artifactId>
 	<version>1.0</version>
 	<name>cloud-config-server</name>
